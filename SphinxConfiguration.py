@@ -20,7 +20,6 @@ from sklearn.model_selection import train_test_split
 #  REQUISITANDO O ARQUIVO TXT DA PAGINA
 
 # In[8]:
-
 function get_url(){
 	end = sys.argv[0]
  	print end
