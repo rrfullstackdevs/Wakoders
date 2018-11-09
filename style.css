@@ -1,0 +1,45 @@
+body{
+	min-width: 200px;
+	min-height: 300px;
+	/*background-image: url(https://images.unsplash.com/photo-1541706910413-8f5b91425509?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a24ae0aab750d4a5996c7c906a9ea69b&auto=format&fit=crop&w=634&q=80);
+	background-size: cover;*/
+}
+
+#title{
+	text-align: center;
+	vertical-align: middle;
+	font-family: 'Montserrat'
+}
+
+.jumbotron{
+	background-color: transparent !important;
+	font-size: 75px;
+	align-content: center;
+}
+
+#setas{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.glyphicon-arrow-up{
+	color: #1cc619;
+	font-size: 25px;
+}
+
+.glyphicon-arrow-down{
+	color: #db2c1c;
+	font-size: 25px;
+}
+
+#icone{
+	text-align: center;
+	vertical-align: middle;
+	color: #ffb744;
+}
+
+.btn-block{
+	vertical-align: bottom;
+	font-family: 'Montserrat'
+}
+
