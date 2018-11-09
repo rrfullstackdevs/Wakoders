@@ -28,12 +28,18 @@ Objetivos Específicos
 3.Bibliotecas utilizadas juntamente com a licença de cada uma;
 
   Anaconda v. 1.9.2
-  as bibliotecas de web crawler :  request , beautifulSoup
+  as bibliotecas de web crawler :  request(1.4.3) , beautifulSoup(4.3.2)
   processamento de texto: TextBlob
-  as bibliotecas sklearn , pandas e numpy foram utilizada para iniciar o processo de machine learning mais precisamente: model_selection, 
+  as bibliotecas sklearn (0.20.0), pandas (0.23.0) e numpy(1.14.3) foram utilizada para iniciar o processo de machine learning mais precisamente: model_selection, 
   preprocessing , linear_model, naives bayes, metric, svm,TfidfVectorizer, CountVectorizer, train_test_split.
 
   
 4.Aprendizado - Informar o que aprendeu para aplicar no projeto;
+  Técnicas de Web Scrapping e formatação de dados, Básico de Machine Learning, formato de criação de extensões para o Google Chrome.
+ 
 5.URL/IP de acesso
+
 6.Apresentação 
+  
+  https://drive.google.com/open?id=1j-EbNsQ7RqnmEQJWEoIFl9yfX3gKO15VhSciwNjjKwA
+  
